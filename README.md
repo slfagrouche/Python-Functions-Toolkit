@@ -1,4 +1,4 @@
-# -Python-Lab-Functions-
+# Python-Functions-Toolkit
 
 Create any 5 functions and write them. Give each function a suitable name, and demonstrate that they work by calling each of them with example inputs.
 
