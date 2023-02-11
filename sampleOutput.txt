@@ -1,0 +1,25 @@
+Computing the area of a cuboid.
+Length? 30
+Width? 34
+Height? 35
+The area is 6520.0
+
+Computing the area of a triangle.
+height: 23
+base: 30
+The area is 345.0
+
+Add the given number of spaces (n) before the string and print results.
+Python is fun!
+5
+     Python is fun!
+   
+Computing number of seconds that have passed between given date and the due date of the assignment.
+Given Date: September 06, 2022
+Due Date: February 19, 2023
+The approximate number of seconds that have passed between two dates is 14515200
+
+Computing the Euclidean distance between the two coordinates (x,y).
+Point 1: (2, 5)
+Point 2: (3, 8)
+The Euclidean distance between the two point is 3.1622776601683795
